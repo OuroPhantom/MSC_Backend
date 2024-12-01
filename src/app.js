@@ -15,6 +15,7 @@ app.use(cors({
         'http://localhost:5173',
         'https://frontend-pz22.onrender.com',
         'https://apiproductos-dovt.onrender.com',
+        'https://msc-frontend.onrender.com'
         
     ],
     
